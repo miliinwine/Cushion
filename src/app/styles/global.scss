@@ -1,0 +1,27 @@
+@import './header/header.scss', './main/banner.scss', './main/cards.scss', './footer/footer.scss';
+@font-face {
+    font-family: "Gotham Pro";
+    src: url("../../fonts/gothampro.ttf");
+}
+@font-face {
+    font-family: "Gotham Ligth";
+    src: url("../../fonts/gothampro-light.ttf");
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Gotham Pro";
+    color: #2c2b31;
+    background: #f0f0f0;
+}
+button{
+    border: none;
+}
+.conteiner {
+    width: 390px;
+    margin: 0 auto;
+}

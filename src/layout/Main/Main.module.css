@@ -1,0 +1,45 @@
+.black {
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    width: 358px;
+    height: 232px;
+    background-size: 358px 232px;
+    background-position: center;
+    background-image: url(../../images/black.jpg);
+}
+
+.orange {
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    width: 358px;
+    height: 232px;
+    background-size: 358px 232px;
+    background-position: center;
+    background-image: url(../../images/orange.jpg);
+}
+
+.pink {
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    width: 358px;
+    height: 232px;
+    background-size: 358px 232px;
+    background-position: center;
+    background-image: url(../../images/pink.jpg);
+}
+
+.yellow {
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    width: 358px;
+    height: 232px;
+    background-size: 358px 232px;
+    background-position: center;
+    background-image: url(../../images/yellow.jpg);
+}
+
+.star {
+    width: 14px;
+    height: 14px;
+    background-image: url("../../icons/stars.svg");
+}

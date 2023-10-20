@@ -1,0 +1,18 @@
+.header {
+    &__title {
+        padding: 11px 13px 10px 13px;
+        font-size: 12.694px;
+        background: #f19d2f;
+    }
+
+    &__items {
+        padding: 19px 86px 19px 86px;
+        text-align: center;
+        background: #ffd1ac;
+    }
+
+   &__ellipse {
+        position: absolute;
+        margin: 8px 0 0 -69.5px;
+    }
+}

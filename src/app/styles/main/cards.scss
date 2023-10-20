@@ -1,0 +1,67 @@
+.cards {
+  width: 358px;
+  height: 503px;
+  margin: 82px 16px 0 16px;
+
+  &__header {
+    font-family: "Gotham Ligth";
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    font-size: 12.067px;
+    &-link {
+      color: #37d997;
+      text-decoration-line: underline;
+      font-family: "Gotham Ligth";
+      border: none;
+      &:hover{
+        cursor: pointer;
+      }
+    }
+  }
+
+  &__title {
+    margin-top: 20px;
+    font-size: 19.168px;
+    text-transform: uppercase;
+  }
+  
+  &__cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  &__preview {
+    border-radius: 10px;
+    width:80px;
+    height: 66px;
+  }
+
+  &__preview:hover {
+    opacity: 0.4;
+    cursor: pointer;
+  }
+
+  &__description {
+    font-size: 15.29px;
+    margin-bottom: 12px;
+  }
+
+  span {
+    font-family: "Gotham Ligth";
+  }
+  &__link {
+    color: #2c2b31;
+    text-decoration: none;
+    font-size: 15.29px;
+  }
+  &__stars {
+    font-family: "Gotham Ligth";
+    width: 126px;
+    height: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+}

@@ -1,0 +1,214 @@
+@charset "UTF-8";
+.header__title {
+  padding: 11px 13px 10px 13px;
+  font-size: 12.694px;
+  background: #f19d2f;
+}
+.header__items {
+  padding: 19px 86px 19px 86px;
+  text-align: center;
+  background: #ffd1ac;
+}
+.header__ellipse {
+  position: absolute;
+  margin: 8px 0 0 -69.5px;
+}
+
+.banner {
+  color: #fff;
+  text-transform: uppercase;
+}
+.banner__banner {
+  position: absolute;
+}
+.banner__items {
+  padding: 209px 13px 0 13px;
+}
+.banner__timer {
+  position: absolute;
+  width: 103px;
+  height: 58px;
+  border-radius: 7.101px;
+  background: #f19d2f;
+  padding: 9px 0 0 0;
+  text-align: center;
+}
+.banner__timer-title {
+  font-size: 10.599px;
+}
+.banner__timer-time {
+  font-size: 19px;
+  display: flex;
+  justify-content: center;
+  margin: 10.14px 0 0 0;
+}
+.banner__price {
+  position: absolute;
+  margin: 0 0 0 248px;
+  padding: 6.49px 0 0 0;
+  width: 116px;
+  height: 58px;
+  text-align: center;
+  border-radius: 5.677px;
+  background: #37d997;
+}
+.banner__price-old {
+  font-size: 18.077px;
+}
+.banner__price-new {
+  margin-top: 8.11px;
+  font-size: 22px;
+}
+.banner__price-line {
+  position: absolute;
+  transform: translateX(10px);
+  margin-top: 7px;
+  width: 95px;
+  height: 3.514px;
+  border-radius: 20px;
+  background: #e27500;
+}
+
+.cards {
+  width: 358px;
+  height: 503px;
+  margin: 82px 16px 0 16px;
+}
+.cards__header {
+  font-family: "Gotham Ligth";
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  font-size: 12.067px;
+}
+.cards__header-link {
+  color: #37d997;
+  text-decoration-line: underline;
+  font-family: "Gotham Ligth";
+  border: none;
+}
+.cards__header-link:hover {
+  cursor: pointer;
+}
+.cards__title {
+  margin-top: 20px;
+  font-size: 19.168px;
+  text-transform: uppercase;
+}
+.cards__cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.cards__preview {
+  border-radius: 10px;
+  width: 80px;
+  height: 66px;
+}
+.cards__preview:hover {
+  opacity: 0.4;
+  cursor: pointer;
+}
+.cards__description {
+  font-size: 15.29px;
+  margin-bottom: 12px;
+}
+.cards span {
+  font-family: "Gotham Ligth";
+}
+.cards__link {
+  color: #2c2b31;
+  text-decoration: none;
+  font-size: 15.29px;
+}
+.cards__stars {
+  font-family: "Gotham Ligth";
+  width: 126px;
+  height: 15px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  padding: 20px 0 41.38px 0;
+  width: 356px;
+  margin: 0 auto;
+}
+.footer__selects {
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer__selects-form {
+  display: flex;
+  flex-direction: column;
+}
+.footer__selects-label {
+  font-family: "Gotham Ligth";
+  text-align: center;
+  font-size: 10px;
+  margin-bottom: 5px;
+}
+.footer__select {
+  width: 170px;
+  height: 50px;
+  border-radius: 15px;
+  border: none;
+  outline: none;
+  border: transparent;
+  color: #2c2b31;
+  background-color: #fff;
+  text-align: center;
+  font-size: 21.69px;
+  text-transform: uppercase;
+  /* Убрать стрелки */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.footer__button {
+  text-decoration: none;
+  margin-top: 20px;
+  width: 356px;
+  height: 50px;
+  border-radius: 15px;
+  background: #37d997;
+  color: #fff;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.footer__button:hover {
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: "Gotham Pro";
+  src: url("../../fonts/gothampro.ttf");
+}
+@font-face {
+  font-family: "Gotham Ligth";
+  src: url("../../fonts/gothampro-light.ttf");
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Gotham Pro";
+  color: #2c2b31;
+  background: #f0f0f0;
+}
+
+button {
+  border: none;
+}
+
+.conteiner {
+  width: 390px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=global.scs.map */

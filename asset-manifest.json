@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cushion/static/css/main.3ac9d6e6.css",
+    "main.js": "/Cushion/static/js/main.98677edc.js",
+    "static/media/orange.jpg": "/Cushion/static/media/orange.ee9d23f32c8a6a1b55cb.jpg",
+    "static/media/yellow.jpg": "/Cushion/static/media/yellow.1c39cec1da950f0bd022.jpg",
+    "static/media/pink.jpg": "/Cushion/static/media/pink.246d1960a7d990912091.jpg",
+    "static/media/black.jpg": "/Cushion/static/media/black.8a69503ada1ca84fbb1c.jpg",
+    "static/media/banner.png": "/Cushion/static/media/banner.6fe134421a0ac636c592.png",
+    "static/media/gothampro-light.ttf": "/Cushion/static/media/gothampro-light.dfbba8c980f43420d2d1.ttf",
+    "static/media/gothampro.ttf": "/Cushion/static/media/gothampro.dca4b95d345c2abd8661.ttf",
+    "static/media/logo.png": "/Cushion/static/media/logo.87bf600fdb7260c2ffa2.png",
+    "static/media/stars.svg": "/Cushion/static/media/stars.0e5550d0c95ec80dc2a8.svg",
+    "index.html": "/Cushion/index.html",
+    "main.3ac9d6e6.css.map": "/Cushion/static/css/main.3ac9d6e6.css.map",
+    "main.98677edc.js.map": "/Cushion/static/js/main.98677edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac9d6e6.css",
+    "static/js/main.98677edc.js"
+  ]
+}
